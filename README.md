@@ -1,17 +1,19 @@
-# Sistema de Sugestão de Cardápio
+# Portfólio - Desenvolvimento de Sistemas
 
-Projeto desenvolvido em Portugol Studio.
+Este repositório reúne atividades, exercícios e projetos desenvolvidos durante meus estudos em Desenvolvimento de Sistemas.
 
-## Funcionalidades
-- Solicita o nome do cliente.
-- Verifica se o cliente é vegetariano.
-- Verifica se o cliente está em dieta.
-- Sugere um prato de acordo com as respostas.
-- Solicita a forma de pagamento.
-- Exibe mensagem de desconto para pagamento em dinheiro.
+## Conteúdos
 
-## Tecnologias
-- Portugol Studio
+- Lógica de Programação (Portugol Studio)
+- Redes de Computadores
+- Banco de Dados
+- Desenvolvimento de Sistemas
+- Projetos Integradores
 
-## Autor
+## Objetivo
+
+Registrar minha evolução e compartilhar os conhecimentos adquiridos ao longo do curso.
+
+## Autora
+
 Anna Celesti
